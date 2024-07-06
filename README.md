@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maira</h1>
-<h3 align="center">Dedicated Software Engineering student passionate about developing innovative and efficient solutions.</h3>
+<h3 align="center">Software Engineering student.</h3>
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
