@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maira</h1>
 <h3 align="center">Software Engineering student.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot.**
+- 🌱 I’m currently learning **Java and Spring Boot.**
 
 <p align="left">
 </p>
